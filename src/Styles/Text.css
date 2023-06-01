@@ -1,0 +1,42 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: var(--base-100)
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: var(--base-100);
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: var(--base-100);
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: var(--base-100);
+}
+
+.medium-body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: var(--base-100);
+}
+
+.small-body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: var(--base-100);
+}
+
+.icon {
+    color: var(--base-100);
+    padding-right: 16px;
+    font-size: 20px;
+}

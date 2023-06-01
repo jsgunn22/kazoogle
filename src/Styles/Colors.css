@@ -1,0 +1,23 @@
+:root {
+    --base-100: #F5EFE4;
+    --base-200: #F5EFE5;
+    --base-300: #F4ECE1;
+    --base-400: #F4EBD5;
+    --base-500: #F5E5C1;
+    --base-600: #F5E2B2;
+    --base-700: #857753;
+    --base-800: #4C432E;
+
+    --pink-100: #DF89B8;
+    --pink-300: #CE0D7A;
+    --pink-500: #A20F6B;
+    --pink-700: #6E0845;
+    --pink-900: #3D0428;
+
+    --neutral-400: #AFADA7;
+    --neutral-500: #575757;
+    --neutral-600: #4D4D4D;
+    --neutral-700: #323232;
+    --neutral-800: #191919;
+    --neutral-900: #1a1a1a;
+}

@@ -1,0 +1,10 @@
+#grid-container {
+    display: grid;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(310px, 310px));
+    width: auto;
+    margin-left: 32px;
+    margin-right: 32px;
+    justify-content: center;
+}
