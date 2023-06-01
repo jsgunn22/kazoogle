@@ -1,0 +1,15 @@
+#tag {
+    border-radius: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: var(--base-100);
+    color: var(--neutral-900);
+    height: 24px;
+    width: fit-content;
+    margin-right: 12px;
+}
+
+.small-body {
+display: table-cell;
+vertical-align: middle;
+}
